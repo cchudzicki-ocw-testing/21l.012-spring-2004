@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: achilespenthsla.jpg
 uid: 917fc4d2-882e-b960-bf8e-2c2975693fe6
