@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: handout08donqu.pdf
-type: OCWFile
 uid: 33daeb97-7720-73b3-6a57-39027a0b36ad
 ---

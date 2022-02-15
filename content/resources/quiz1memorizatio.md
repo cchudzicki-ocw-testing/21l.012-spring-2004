@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: quiz1memorizatio.pdf
-type: OCWFile
 uid: 2976aef4-5a3d-f3e7-af03-ada1fc2d64bc
 ---

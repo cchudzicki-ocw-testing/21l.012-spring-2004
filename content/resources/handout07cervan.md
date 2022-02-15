@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: handout07cervan.pdf
-type: OCWFile
 uid: 31084149-8005-6622-4790-bff51482cfe1
 ---

@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: finalexam.pdf
-type: OCWFile
 uid: f920f08c-b311-0eb4-714b-80c0adf46afd
 ---

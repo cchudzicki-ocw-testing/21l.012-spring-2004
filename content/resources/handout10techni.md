@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: handout10techni.pdf
-type: OCWFile
 uid: 2fbf7033-b379-7664-1cfd-b50ad4d424f3
 ---

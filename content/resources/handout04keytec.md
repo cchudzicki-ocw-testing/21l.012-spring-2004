@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: handout04keytec.pdf
-type: OCWFile
 uid: 7c3c012c-f03a-bc58-2f5c-b3dfd2512160
 ---

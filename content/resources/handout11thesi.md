@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: handout11thesi.pdf
-type: OCWFile
 uid: ad3b256e-5169-40bf-3add-24bd730e67a2
 ---

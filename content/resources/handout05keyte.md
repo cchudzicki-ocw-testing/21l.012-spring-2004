@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: handout05keyte.pdf
-type: OCWFile
 uid: fd5a0aa5-e490-5138-ca7a-d2c03d7e429a
 ---

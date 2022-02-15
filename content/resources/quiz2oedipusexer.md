@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: quiz2oedipusexer.pdf
-type: OCWFile
 uid: 07b7391a-73bc-5614-a55e-87c1e7d5e9e9
 ---

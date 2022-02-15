@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: handout09reng.pdf
-type: OCWFile
 uid: ad2ff446-c7d3-38e0-33b5-2eb7f25f5200
 ---
