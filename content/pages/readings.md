@@ -75,7 +75,7 @@ Introduction: Orality and Literacy
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout01keyte))
+({{< resource_link 0430ccda-9a68-277c-1d1a-6250f0b41828 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ Epic Conventions
 Homer. _Iliad._ Books 1-6.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout02chain))
+({{< resource_link e119afe8-2fcd-1be3-19cb-33291dfe9e27 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ Stories within Stories: The Social Functions of Storytelling
 Homer. _Iliad._ Books 7-12.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout03iliad))
+({{< resource_link 9e89b19c-a0e2-a85f-db40-d5ece4bcc170 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +150,7 @@ Genre and Ideology I: The Tragic Arc
 Sophocles. _Oedipus Tyrannos_.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout04keytec))
+({{< resource_link 7c3c012c-f03a-bc58-2f5c-b3dfd2512160 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +165,7 @@ Approaches to History: Methods and Materials
 Herodotus. _The Histories._ Book I.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout05keyte))
+({{< resource_link fd5a0aa5-e490-5138-ca7a-d2c03d7e429a "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +227,7 @@ Bakhtin, Mikhail. "Forms of Time and the Chronotope." 
 _Acts of Paul and Thecla_.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout13keyte))
+({{< resource_link 7b31bf89-35e9-1b07-7844-d6450d4b147a "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -242,8 +242,8 @@ Perspective and the Novelty of the Novel
 Cervantes. _Don Quixote_. Dedication, Prologue, Part I. Chapters 1-17.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout07cervan))  
-([PDF]({{< baseurl >}}/resources/handout08donqu))
+({{< resource_link 31084149-8005-6622-4790-bff51482cfe1 "PDF" >}})  
+({{< resource_link 33daeb97-7720-73b3-6a57-39027a0b36ad "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +258,7 @@ Mediation and the Triangulated Subject
 Cervantes. _Don Quixote_. Part I. Chapters 18-35.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout09reng))
+({{< resource_link ad2ff446-c7d3-38e0-33b5-2eb7f25f5200 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +273,7 @@ Character Development and the Accumulation of Experience
 Cervantes. _Don Quixote._ Part I. Chapters 36-52.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout06histor))
+({{< resource_link 8713aa02-4f38-6d64-109b-0fbdf61c1e57 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +367,7 @@ Psychoanalytic Archetypes and Fairy-Tales
 Freud. "On Dreams," "Family Romances," and "The Dissolution of the Oedipus Complex."
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout10techni))
+({{< resource_link 2fbf7033-b379-7664-1cfd-b50ad4d424f3 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -474,7 +474,7 @@ Narrative and New Media
 Wright, Will. Electronic Arts, _The Sims_.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/handout11thesi))
+({{< resource_link ad3b256e-5169-40bf-3add-24bd730e67a2 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
