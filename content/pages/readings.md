@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides bibliographic citations for required texts and
+  readings by class session.
 draft: false
 learning_resource_types:
 - Readings
