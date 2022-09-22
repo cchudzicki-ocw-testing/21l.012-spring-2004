@@ -5,6 +5,7 @@ file: /courses/21l-012-forms-of-western-narrative-spring-2004/ad2ff446c7d338e033
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
